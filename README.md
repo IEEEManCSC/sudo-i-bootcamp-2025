@@ -1,8 +1,9 @@
- <div align="center">  
+<div align="center">  
+  <img src="assets/sudo-i-banner.png" alt="Sudo-i Banner" width="100%">
   <img src="https://img.shields.io/badge/IEEE-Mansoura%20CS%20Chapter-blue?style=for-the-badge&logo=ieee" alt="IEEE Mansoura CS">  
-  <h1>🚀 Sudo-i Bootcamp 2024</h1>  
+  <h1>🚀 Sudo-i Bootcamp 2025</h1>  
   <p><em>Elevate Your Software Development Skills with Modern Practices</em></p>  
-</div>  
+</div>   
 
 ---
 
@@ -21,7 +22,7 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 ## **🎯 Topics Covered**  
 | Session                          | Key Skills                                                                 |  
 |----------------------------------|----------------------------------------------------------------------------|  
-| **🤖 AI-Powered App Session**    | LLM integration, LangChain development, Hugging Face models, Fine-tuning & prompt engineering, Memory systems & context management |  
+| **🤖 AI-Powered App Session**    | LLMs & Prompt Engineering, LangChain Development, RAG Systems, Memory Management, Model Fine-tuning |  
 | **🐋 Containerization Session** | Docker fundamentals, Kubernetes basics, Image optimization                |  
 | **🛠️ DevOps Session**           | CI/CD pipelines, GitHub Actions, Infrastructure as Code (Terraform)      |  
 | **☁️ Cloud Session**             | AWS/Azure services, Serverless architectures, Cloud security              |  
@@ -32,13 +33,14 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 ## **📅 Bootcamp Curriculum**  
 | Week | Focus Area               | Labs & Projects                                          |  
 |------|--------------------------|----------------------------------------------------------|  
-| 1    | **Containerization**     | Dockerize a Python app, Kubernetes cluster setup          |  
-| 2    | **DevOps Practices**     | CI/CD Pipeline with GitHub Actions, Terraform infrastructure setup |  
-| 3    | **Cloud Foundations**    | Deploy serverless API on AWS/Azure, Cloud security workshop |  
-| 4    | **AI & Data Lifecycle**  | Deploy ML model with FastAPI, Build data pipeline with Airflow |  
-| 5    | **Final Project**        | AI-Powered Cloud Application (Containerized microservices with CI/CD) |  
-
+| 1    | **AI & Data Lifecycle**  | LangChain Chatbot, RAG System Development, Context-Aware AI Apps |  
+| 2    | **Containerization**     | Dockerize a Python app, Kubernetes cluster setup          |  
+| 3    | **DevOps Practices**     | CI/CD Pipeline with GitHub Actions, Terraform infrastructure setup |  
+| 4    | **Data Engineering**     | Data pipelines (Airflow), Feature stores, ML workflow orchestration |
+| 5    | **Cloud Foundations**    | Deploy serverless API on AWS/Azure, Cloud security workshop |  
+| 6    | **Final Project**        | End-to-end implementation of learned concepts |  
 ---
+
 ## ** Repository Structure**  
 ```  
 sudo-i-bootcamp-2024/  
