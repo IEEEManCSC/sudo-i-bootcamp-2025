@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="assets/sudo-i-banner.png" alt="Sudo-i Banner" width="100%">
+  <img src="assets/Sudo-i.png" alt="Sudo-i Banner" width="100%">
   <img src="https://img.shields.io/badge/IEEE-Mansoura%20CS%20Chapter-blue?style=for-the-badge&logo=ieee" alt="IEEE Mansoura CS">  
   <h1>🚀 Sudo-i Bootcamp 2025</h1>  
   <p><em>Elevate Your Software Development Skills with Modern Practices</em></p>  
