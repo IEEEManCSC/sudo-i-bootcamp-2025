@@ -74,10 +74,11 @@ This repository is licensed under the [MIT License](LICENSE).
 --- 
 
 <div align="center">  
-  <h3>✨ Let’s Code the Future Together! ✨</h3>  
-  <a href="https://csc.ieeemansb.org/">IEEE Mansoura CS Website</a> | <a href="https://twitter.com/ieee_mansoura">Twitter</a>  
-</div>  
-
+  <h3>✨ Let's Code the Future Together! ✨</h3>  
+  <a href="https://csc.ieeemansb.org/">IEEE Mansoura CS Website</a> | 
+  <a href="https://www.facebook.com/ieeemancsc">Facebook</a> | 
+  <a href="mailto:ieeemancsc@gmail.com">Email</a>
+</div> 
 ---
 
 **Badges**  
