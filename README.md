@@ -22,7 +22,7 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 ## **🎯 Topics Covered**  
 | Session                          | Key Skills                                                                 |  
 |----------------------------------|----------------------------------------------------------------------------|  
-| **🤖 AI-Powered App Session**    | LLMs & Prompt Engineering, LangChain Development, RAG Systems, Memory Management, Model Fine-tuning |  
+| **🤖 AI-Powered App Session**    | Intro to LLMs, Building Chatbots, using open source models, Context-aware AI app |  
 | **🐋 Containerization Session** | Docker fundamentals, Kubernetes basics, Image optimization                |  
 | **🛠️ DevOps Session**           | CI/CD pipelines, GitHub Actions, Infrastructure as Code (Terraform)      |  
 | **☁️ Cloud Session**             | AWS/Azure services, Serverless architectures, Cloud security              |  
@@ -33,7 +33,7 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 ## **📅 Bootcamp Curriculum**  
 | Week | Focus Area               | Labs & Projects                                          |  
 |------|--------------------------|----------------------------------------------------------|  
-| 1    | **AI & Data Lifecycle**  | LangChain Chatbot, RAG System Development, Context-Aware AI Apps |  
+| 1    | **AI & Data Lifecycle**  | Intro to LLMs, Building Chatbots, using open source models, Context-aware AI app |  
 | 2    | **Containerization**     | Dockerize a Python app, Kubernetes cluster setup          |  
 | 3    | **DevOps Practices**     | CI/CD Pipeline with GitHub Actions, Terraform infrastructure setup |  
 | 4    | **Data Engineering**     | Data pipelines (Airflow), Feature stores, ML workflow orchestration |
