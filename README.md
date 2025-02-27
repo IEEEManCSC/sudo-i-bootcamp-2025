@@ -8,7 +8,7 @@
 ---
 
 ## **📖 Overview**  
-Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer Society Chapter**! This intensive event is designed to transform you into a well-rounded developer by focusing on **industry-relevant skills** and **best practices**. Whether you're a beginner or an intermediate coder, you’ll gain hands-on experience with tools and methodologies used in modern software engineering.  
+Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer Society Chapter**! This intensive event is designed to transform you into a well-rounded developer by focusing on **industry-relevant skills** and **best practices**. Whether you're a beginner or an intermediate coder, you'll gain hands-on experience with tools and methodologies used in modern software engineering.  
 
 **Key Themes**:  
 - 🧹 **Clean Code & SOLID Principles**  
@@ -27,6 +27,38 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 | **🛠️ DevOps Session**           | CI/CD pipelines, GitHub Actions, Infrastructure as Code (Terraform)      |  
 | **☁️ Cloud Session**             | AWS/Azure services, Serverless architectures, Cloud security              |  
 | **📊 Bridging DE & DS Lifecycle**| Data pipelines (Airflow), Feature stores, ML workflow orchestration        |  
+
+## **Final Project: AI-Driven Predictive Maintenance Platform**
+
+The bootcamp culminates in a comprehensive final project that integrates all learned concepts into a real-world application. Teams will build an end-to-end predictive maintenance platform using modern cloud-native technologies and best practices.
+
+### Project Overview
+- Cloud-native solution for equipment failure prediction
+- Real-time data processing and analysis
+- Containerized microservices architecture
+- DevOps automation and CI/CD implementation
+- Optional ML pipeline integration
+
+### Key Components
+- Frontend Dashboard (React + Material-UI)
+- Backend Microservices (Node.js/Python)
+- Data Processing Pipeline
+- Infrastructure as Code
+- Monitoring and Observability
+
+### Team Structure
+- Teams of up to 6 members
+- Defined roles and responsibilities
+- Regular progress reporting
+- Instructor mentorship
+
+### Project Timeline
+- Week 1-2: Architecture and Setup
+- Week 3-4: Core Implementation
+- Week 5: Testing and Documentation
+- Week 6: Final Presentation
+
+For detailed project specifications, requirements, and submission guidelines, see [Project Documentation](sudo-i.md).
 
 ---
 
@@ -55,12 +87,7 @@ sudo-i-bootcamp-2024/
 ```  
 ---
 
-## **👥 Contributing**  
-- **Participants**: Submit labs/projects via Pull Requests (PRs). Tag mentors for reviews!  
-- **Mentors**: Review PRs, add feedback, and merge approved changes.  
-- Follow the [IEEE Code of Conduct](CODE_OF_CONDUCT.md).  
 
----
 
 ## **📜 License**  
 This repository is licensed under the [MIT License](LICENSE).  
