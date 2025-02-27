@@ -22,10 +22,15 @@ An end-to-end cloud-native solution for real-time equipment failure prediction, 
    - Containerized with Docker
 
 3. **ML Pipeline (Optional Enhancement)**
-   - Apache Airflow for ETL workflow orchestration
+   - Apache Kafka for real-time data streaming and ETL
+   - Alternative cloud services:
+     - AWS: Kinesis, SageMaker, EMR
+     - Azure: Event Hubs, Azure ML, Databricks
    - Data preprocessing and feature engineering pipelines
    - Model training and validation workflows
-   - Model serving infrastructure
+   - Model serving infrastructure with:
+     - Self-hosted: TensorFlow Serving, Seldon Core
+     - Cloud-managed: SageMaker endpoints, Azure ML endpoints
    - A/B testing capabilities
 
 4. **Data Layer**
@@ -35,11 +40,10 @@ An end-to-end cloud-native solution for real-time equipment failure prediction, 
    - MinIO/S3 for model artifacts storage
 
 5. **DevOps & Infrastructure**
-   - Kubernetes for container orchestration
+   - Docker and Docker Compose for containerization
    - GitHub Actions for CI/CD pipelines
    - Infrastructure as Code using Terraform
-   - Prometheus & Grafana for monitoring
-   - ELK Stack for centralized logging
+   - Basic monitoring and logging setup
 
 ### System Flow
 
@@ -60,7 +64,7 @@ graph LR
 ### 1. Container Strategy
 - Each service should have its own Dockerfile
 - Multi-stage builds for optimized images
-- Use of Docker Compose for local development
+- Use of Docker Compose for local development and orchestration
 - Container security scanning in CI/CD
 
 ### 2. CI/CD Pipeline Requirements
@@ -76,10 +80,10 @@ stages:
 ## Development Requirements
 
 ### Minimum Requirements
-- Containerized Frontend & Backend
-- Basic CI/CD pipeline
+- Containerized services with Docker and Docker Compose
+- Basic CI/CD pipeline with GitHub Actions
+- Infrastructure management with Terraform
 - REST API implementation
-- Equipment data processing
 - Basic monitoring setup
 
 ### Advanced Features (Optional)

@@ -23,8 +23,8 @@ Welcome to the **Sudo-i Bootcamp**, organized by the **IEEE Mansoura Computer So
 | Session                          | Key Skills                                                                 |  
 |----------------------------------|----------------------------------------------------------------------------|  
 | **🤖 AI-Powered App Session**    | Intro to LLMs, Building Chatbots, using open source models, Context-aware AI app |  
-| **🐋 Containerization Session** | Docker fundamentals, Kubernetes basics, Image optimization                |  
-| **🛠️ DevOps Session**           | CI/CD pipelines, GitHub Actions, Infrastructure as Code (Terraform)      |  
+| **🐋 Containerization Session** | Docker fundamentals, Docker Compose, Container best practices              |  
+| **🛠️ DevOps Session**           | CI/CD pipelines with GitHub Actions, Infrastructure as Code (Terraform)    |  
 | **☁️ Cloud Session**             | AWS/Azure services, Serverless architectures, Cloud security              |  
 | **📊 Bridging DE & DS Lifecycle**| Data pipelines (Airflow), Feature stores, ML workflow orchestration        |  
 
@@ -65,9 +65,9 @@ For detailed project specifications, requirements, and submission guidelines, se
 ## **📅 Bootcamp Curriculum**  
 | Week | Focus Area               | Labs & Projects                                          |  
 |------|--------------------------|----------------------------------------------------------|  
-| 1    | **AI & Data Lifecycle**  | Intro to LLMs, Building Chatbots, using open source models, Context-aware AI app |  
-| 2    | **Containerization**     | Dockerize a Python app, Kubernetes cluster setup          |  
-| 3    | **DevOps Practices**     | CI/CD Pipeline with GitHub Actions, Terraform infrastructure setup |  
+| 1    | **AI & Data Lifecycle**  | Intro to LLMs, Building Chatbots, using open source models |  
+| 2    | **Containerization**     | Dockerize applications, Docker Compose setup              |  
+| 3    | **DevOps Practices**     | CI/CD Pipeline with GitHub Actions, Terraform infrastructure |  
 | 4    | **Data Engineering**     | Data pipelines (Airflow), Feature stores, ML workflow orchestration |
 | 5    | **Cloud Foundations**    | Deploy serverless API on AWS/Azure, Cloud security workshop |  
 | 6    | **Final Project**        | End-to-end implementation of learned concepts |  
